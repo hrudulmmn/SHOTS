@@ -1,0 +1,63 @@
+conversations:
+- chat: hello
+  speaker: YOU
+- chat: hi
+  speaker: YOU
+- chat: Welcome back!
+  speaker: SHOTS
+- chat: what
+  speaker: YOU
+- chat: I didnt understand
+  speaker: SHOTS
+- chat: how
+  speaker: YOU
+- chat: I didnt understand
+  speaker: SHOTS
+- chat: hello
+  speaker: YOU
+- chat: Welcome back!
+  speaker: SHOTS
+- chat: how
+  speaker: YOU
+- chat: I didnt understand
+  speaker: SHOTS
+- chat: hi
+  speaker: YOU
+- chat: Hey! SHOTS here
+  speaker: SHOTS
+- chat: what
+  speaker: YOU
+- chat: I didnt understand
+  speaker: SHOTS
+- chat: bye
+  speaker: YOU
+- chat: I didnt understand
+  speaker: SHOTS
+- chat: hi
+  speaker: YOU
+- chat: I am back from a nap!
+  speaker: SHOTS
+- chat: hello
+  speaker: YOU
+- chat: I am back from a nap!
+  speaker: SHOTS
+- chat: hi
+  speaker: YOU
+- chat: Hey! SHOTS here
+  speaker: SHOTS
+- chat: what
+  speaker: YOU
+- chat: Whats on your mind?
+  speaker: SHOTS
+- chat: why
+  speaker: YOU
+- chat: What Happened?
+  speaker: SHOTS
+- chat: none
+  speaker: YOU
+- chat: null
+  speaker: SHOTS
+- chat: you are
+  speaker: YOU
+- chat: null
+  speaker: SHOTS
